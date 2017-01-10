@@ -1,1 +1,1 @@
-# basic_git
+# basic-git
